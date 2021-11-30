@@ -43,6 +43,9 @@ Also we explored the reaction times that each one of the three subjects had as f
 * Our hypothesis was that <code>Reaction times will be slower for the trials with higher WM load</code>
 * Our null hypothesis was that <code>Reaction time across different N-back tasks doesn't change</code>
 
+<p align="center">
+  <img src="./Resources/confussion_matrix.PNG" alt="Voltage ECoG" width="700"/>
+</p>
 An Anova test was performed in order to find out the p value and find the significance of our hypothesis as shown below:
 
 <p align="center">
